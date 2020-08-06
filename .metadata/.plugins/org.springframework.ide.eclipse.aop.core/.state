@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="ld1a-jdbc-template-crud-mysql"/>
+<aop-project name="le1d-springboot-rest-get"/>
+<aop-project name="ld5a-springboot-rest-Crud-mysql"/>
+</aop-reference-model>

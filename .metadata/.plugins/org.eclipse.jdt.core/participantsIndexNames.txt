@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Users\Aravind\Desktop\Aravind\Advanced Java Training\Springboot\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2504387337.index
+\ld1a-jdbc-template-crud-mysql\target\generated-sources\annotations

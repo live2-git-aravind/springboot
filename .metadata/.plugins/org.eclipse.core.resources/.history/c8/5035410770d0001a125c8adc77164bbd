@@ -1,0 +1,13 @@
+package com.live.ld5aspringbootrestCrudmysql;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class Ld5aSpringbootRestCrudMysqlApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}

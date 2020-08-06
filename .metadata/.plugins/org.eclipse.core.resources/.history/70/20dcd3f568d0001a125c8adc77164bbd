@@ -1,0 +1,13 @@
+package com.live.ld5aspringbootrestCrudmysql;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Ld5aSpringbootRestCrudMysqlApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Ld5aSpringbootRestCrudMysqlApplication.class, args);
+	}
+
+}

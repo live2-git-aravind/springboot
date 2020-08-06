@@ -1,0 +1,16 @@
+package com.live.repository;
+
+import java.util.List;
+
+import com.live.model.Product;
+
+public interface ProductRepository {
+
+public boolean updateProduct();
+public boolean deleteProduct();
+public List<Product> getProducts();
+
+Product getProductById(int productId);
+boolean createProduct(Product product);
+
+}

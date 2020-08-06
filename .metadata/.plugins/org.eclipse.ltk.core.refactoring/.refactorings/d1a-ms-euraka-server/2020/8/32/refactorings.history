@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move package &apos;com.live.model&apos; to &apos;d1b-ms-getproducts/src/main/java/com.live&apos;&#x0D;&#x0A;- Original project: &apos;d1a-ms-euraka-server&apos;&#x0D;&#x0A;- Destination element: &apos;d1b-ms-getproducts/src/main/java/com.live&apos;&#x0D;&#x0A;- Original element: &apos;d1a-ms-euraka-server/src/main/java/com.live.model&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move package" destination="=d1b-ms-getproducts/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.live" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.live.model" flags="589830" fragments="1" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.movePackages" stamp="1596590844357" version="1.0"/>
+</session>
